@@ -3,10 +3,9 @@
 - 📚 I'm currently just studying
 - 🌱 I am currently studying several technologies such as HTML, Java Script, CSS, REACT, NodeJs and more
 - 🎯 My goal is to work as a full stack developer
-- 😄 Pronouns: him/his
 - ⚡ Fun fact: I spent 12 years of my life working on something I hated and today at age 30 I discovered that I love developing
 
-<div align="center">
+<!- <div align="center">
   <a href="https://github.com/CodeBernardo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeBernardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeBernardo&layout=compact&langs_count=7&theme=dracula"/>
@@ -20,4 +19,4 @@
 <img align="center" alt="Bernardo-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img img align="center" alt="Bernardo-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
-
+->
