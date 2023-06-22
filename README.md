@@ -1,6 +1,6 @@
 ## Hi there I'm Bernardo Stein 👋
 
-- 📚 I'm currently just studying
+- 📚 I'm currently just studying on Kenzie Academy Brasil
 - 🌱 I am currently studying several technologies such as HTML, Java Script, CSS, REACT, NodeJs and more
 - 🎯 My goal is to work as a full stack developer
 - ⚡ Fun fact: I spent 12 years of my life working on something I hated and today at age 30 I discovered that I love developing
