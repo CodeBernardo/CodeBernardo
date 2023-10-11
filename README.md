@@ -5,14 +5,6 @@
 - 🎯 My goal is to work as a full stack developer
 - ⚡ Fun fact: I spent 12 years of my life working on something I hated and today at age 30 I discovered that I love developing
 
-/* 
-<div align="center">
-  <a href="https://github.com/CodeBernardo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeBernardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeBernardo&layout=compact&langs_count=7&theme=dracula"/>
-</div> 
-*/
-
 <div style="display: inline_block" align="center"<br>
 <img align="center" alt="Bernardo-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="center" alt="Bernardo-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
