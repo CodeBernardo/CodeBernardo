@@ -25,12 +25,12 @@
 <img align="center" alt="Bernardo-TS" height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img img align="center" alt="Bernardo-node" height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img img align="center" alt="Bernardo-git" height="30"  src="https://icon.icepanel.io/Technology/svg/Git.svg" />
-<img img align="center" alt="Bernardo-node" height="30" style="background-color:#fff;" src="https://icon.icepanel.io/Technology/png-shadow-512/GitHub.png" />
+<img img align="center" alt="Bernardo-node" height="30" style="background-color:white;" src="https://icon.icepanel.io/Technology/png-shadow-512/GitHub.png" />
 <img img align="center" alt="Bernardo-node" height="30"  src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" />
 <img img align="center" alt="Bernardo-node" height="30"  src="https://icon.icepanel.io/Technology/svg/Jest.svg" />
 <img img align="center" alt="Bernardo-node" height="30"  src="https://icon.icepanel.io/Technology/svg/Bun.svg" />
 <img img align="center" alt="Bernardo-node" height="30"  src="https://www.svgrepo.com/show/508894/aspnet.svg" />
-<img img align="center" alt="Bernardo-node" height="30" style="background-color:#fff;" src="https://www.svgrepo.com/show/353622/c-sharp.svg" />
+<img img align="center" alt="Bernardo-node" height="30" style="background-color:white;" src="https://www.svgrepo.com/show/353622/c-sharp.svg" />
 
 
 <!-- 
