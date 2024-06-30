@@ -1,8 +1,9 @@
 ## Hi there I'm Bernardo Stein 👋
 
-- 📚 I'm currently just studying on Kenzie Academy Brasil
-- 🌱 I am currently studying several technologies such as HTML, Java Script, CSS, REACT, NodeJs and more
-- 🎯 My goal is to work as a full stack developer
+- 📚 Full Stack Developer
+- 🧑🏼‍💻 I currently work at RSP Blue
+- 🌱 I am currently studying ASPNET and C#
+- 🎯 My goal is to have an international career as a developer
 - ⚡ Fun fact: I spent 12 years of my life working on something I hated and today at age 30 I discovered that I love developing
 
 
@@ -28,6 +29,9 @@
 <img img align="center" alt="Bernardo-node" height="30"  src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" />
 <img img align="center" alt="Bernardo-node" height="30"  src="https://icon.icepanel.io/Technology/svg/Jest.svg" />
 <img img align="center" alt="Bernardo-node" height="30"  src="https://icon.icepanel.io/Technology/svg/Bun.svg" />
+<img img align="center" alt="Bernardo-node" height="30"  src="https://www.svgrepo.com/show/508894/aspnet.svg" />
+<img img align="center" alt="Bernardo-node" height="30"  src="https://www.svgrepo.com/show/353622/c-sharp.svg" />
+
 
 <!-- 
 <img img align="center" alt="Bernardo-node" height="30"  src="https://icon.icepanel.io/Technology/svg/Jest.svg" />
