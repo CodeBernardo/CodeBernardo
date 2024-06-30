@@ -30,7 +30,7 @@
 <img img align="center" alt="Bernardo-node" height="30"  src="https://icon.icepanel.io/Technology/svg/Jest.svg" />
 <img img align="center" alt="Bernardo-node" height="30"  src="https://icon.icepanel.io/Technology/svg/Bun.svg" />
 <img img align="center" alt="Bernardo-node" height="30"  src="https://www.svgrepo.com/show/508894/aspnet.svg" />
-<img img align="center" alt="Bernardo-node" height="30"  src="https://www.svgrepo.com/show/353622/c-sharp.svg" />
+<img img align="center" alt="Bernardo-node" height="30" style="color:#fff" src="https://www.svgrepo.com/show/353622/c-sharp.svg" />
 
 
 <!-- 
